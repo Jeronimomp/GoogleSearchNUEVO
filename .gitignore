@@ -6,6 +6,12 @@
 .settings/
 
 .idea
+.gradlew
+.gradlew.bat
 
+.class
 target/
-buid
+
+
+.gradle
+build/
