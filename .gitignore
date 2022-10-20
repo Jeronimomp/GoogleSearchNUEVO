@@ -6,6 +6,8 @@
 .settings/
 
 .idea
-
+.gradle
+.gradlew
+.gradlew.bat
+.buid
 target/
-buid
