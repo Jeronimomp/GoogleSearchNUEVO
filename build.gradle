@@ -5,7 +5,8 @@ apply plugin: 'java'
 
 
 repositories {
-    jcenter()
+    //jcenter()
+    mavenCentral()
 }
 /*
 allprojects {
@@ -18,7 +19,8 @@ allprojects {
 buildscript {
     repositories {
 
-        jcenter()
+        //jcenter()
+        mavenCentral()
     }
     dependencies {
         classpath('net.serenity-bdd:serenity-gradle-plugin:2.4.34')
